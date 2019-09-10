@@ -25,6 +25,9 @@
     self.window.rootViewController = [YBSTabBarViewController new];
     [self.window makeKeyAndVisible];
     
+    // 正在测试
+    
+    
     
     return YES;
 }
